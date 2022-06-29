@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+body{
+    background-image: url(/images/marte.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.rojo{
+    border: 5px #fff  solid;
+    margin-top: 10px;
+}
+
+
+.morado{
+    border: 5px #fff  solid;
+    margin-top: 10px;
+}
+.rojo h1{
+    color: red;
+
+
+}
+
+.rojo p{
+    color:ghostwhite;
+    font-size: 20px;
+  
+   
+}
+
+
+.morado h1{
+    color: chartreuse;
+
+}
+
+.morado p{
+    color: beige;
+    font-size: 20px;
+}
+
+.img1 img {
+    width: 100%;
+    height: 300px;
+    border: 5px #fff  solid;
+    margin-top: 10px;
+
+}
+
+.morado h1 {
+    text-align: center;
+}
